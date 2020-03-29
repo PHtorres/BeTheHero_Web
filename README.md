@@ -3,7 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## BeTheHero Web
 Projeto Web do BeTheHero
 
-Projeto criado com ## React
+Projeto criado com 
+## React
 
 Tecnologias/Libs utilizadas:
 
